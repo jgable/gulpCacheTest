@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gulp": "~3.5.5",
-    "gulp-cache": "~0.1.3",
+    "gulp": "~3.8.0",
+    "gulp-cache": "~0.1.10",
     "gulp-imagemin": "~0.1.5"
   }
 }

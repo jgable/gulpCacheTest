@@ -11,3 +11,7 @@ gulp.task('images', function () {
         })))
         .pipe(gulp.dest('built/imgs'));
 });
+
+gulp.task('clear', function (done) {
+	return cache.clearAll(done);
+});
